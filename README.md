@@ -1,4 +1,4 @@
-# JavaScript Data Structures and Algorithms
+# JavaScript Data Structures & Algorithms
 
 Projects for the [JavaScript Data Structures and Algorithms](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) certification on [freeCodeCamp](https://freecodecamp.org).
 
